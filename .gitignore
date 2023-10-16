@@ -1,3 +1,4 @@
 *.ini
 *.log
 package.json
+*.txt
